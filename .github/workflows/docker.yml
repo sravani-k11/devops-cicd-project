@@ -1,7 +1,7 @@
 cat > .github/workflows/docker.yml <<'EOF'
 name: Docker CI
 
-on:
+"on":
   push:
     branches:
       - main
