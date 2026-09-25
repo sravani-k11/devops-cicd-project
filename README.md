@@ -47,3 +47,32 @@ Pull the latest Docker image:
 
 ```bash
 docker pull ghcr.io/sravani-k11/devops-cicd-project:latest
+## 🏗️ Project Architecture
+
+Developer
+   ↓
+GitHub Repository
+   ↓
+GitHub Actions
+   ↓
+Docker Build
+   ↓
+GitHub Container Registry
+   ↓
+Docker Container
+   ↓
+Web Browser
+
+## 🔄 How It Works
+
+1. Developer updates the HTML website.
+2. Code is pushed to the main branch.
+3. GitHub Actions automatically starts the CI pipeline.
+4. Docker builds a new image.
+5. The image is stored in GitHub Container Registry.
+6. The latest Docker image can be pulled and deployed as a container.
+7. The website is accessed through port 8080.
+
+## 🎯 Project Goal
+
+The goal of this project is to demonstrate how DevOps practices can automate the process of building, storing, and deploying a web application using Docker and GitHub Actions.
