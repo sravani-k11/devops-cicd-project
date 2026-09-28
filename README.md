@@ -87,3 +87,23 @@ The goal of this project is to demonstrate how DevOps practices can automate the
 ### Architecture
 
 ![DevOps CI/CD Architecture](screenshots/architecture.png)
+## 📸 Website Screenshots
+
+### Home Page
+![Website Home Page](screenshots/website-top.jpeg)
+
+### Technologies
+![Technologies](screenshots/website-tech.jpeg)
+
+### Project Overview
+![Project Overview](screenshots/website-overview.jpeg)
+
+### CI/CD Pipeline
+![CI/CD Pipeline](screenshots/website-pipeline.png)
+
+### Full Website
+![Full Website](screenshots/website-full.png)
+
+## 🏗️ Architecture
+
+![DevOps Architecture](screenshots/architecture.png)
