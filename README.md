@@ -78,3 +78,12 @@ Web Browser
 The goal of this project is to demonstrate how DevOps practices can automate the process of building, storing, and deploying a web application using Docker and GitHub Actions.
 
 ![DevOps CI/CD Architecture](screenshots/architecture.png)
+## 📸 Project Screenshots
+
+### Website
+
+![DevOps CI/CD Website](screenshots/website.png)
+
+### Architecture
+
+![DevOps CI/CD Architecture](screenshots/architecture.png)
